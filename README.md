@@ -29,6 +29,7 @@ Publish the website in the given URL.
 ## DESIGN:
 
 ## PROGRAM :
+```
 /* home page */
 
 position: relative;
@@ -462,6 +463,7 @@ line-height: 24px;
 text-align: center;
 
 color: #FFFFFF;
+```
 
 ## OUTPUT:
 ![output](img1.png)
